@@ -1,0 +1,27 @@
+# Ignoruj virtuální prostředí
+.venv/
+venv/
+
+# Soubory cache a dočasné soubory
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logy a výstupy
+*.log
+
+# Nastavení IDE (např. VS Code)
+.vscode/
+
+# Výstupy z Jupyter notebooků
+*.ipynb_checkpoints/
+
+# OS dočasné soubory
+.DS_Store
+Thumbs.db
+
+# Výstupy matplotlib
+*.png
+*.pdf
+*.svg
